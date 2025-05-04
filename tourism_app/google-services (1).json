@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "532987756525",
+    "project_id": "explore-ease-171d1",
+    "storage_bucket": "explore-ease-171d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532987756525:android:cdec1d5175847d104031e4",
+        "android_client_info": {
+          "package_name": "com.example.tourismapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532987756525-ffn6665e5e88n933i8gs60b70i6h7ee5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourismapp",
+            "certificate_hash": "d7859803954c410282d2d5f9e2734e470eb68d28"
+          }
+        },
+        {
+          "client_id": "532987756525-p02g8l2nvrflinnolfdhid1f653390q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDar6NsnnU35iVb01zmaF79ATqiDobF4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532987756525-p02g8l2nvrflinnolfdhid1f653390q0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532987756525-8kf3ekadm5fvqpleemof6g75ligts1pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tourismApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

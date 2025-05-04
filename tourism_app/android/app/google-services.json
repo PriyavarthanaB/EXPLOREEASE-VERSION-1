@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532987756525",
+    "project_id": "explore-ease-171d1",
+    "storage_bucket": "explore-ease-171d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532987756525:android:cdec1d5175847d104031e4",
+        "android_client_info": {
+          "package_name": "com.example.tourismapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDar6NsnnU35iVb01zmaF79ATqiDobF4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

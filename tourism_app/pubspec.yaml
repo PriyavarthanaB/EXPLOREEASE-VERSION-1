@@ -1,0 +1,68 @@
+name: tourism_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.15.0
+  firebase_storage: ^11.6.0
+  provider: ^6.1.0
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  shared_preferences: ^2.3.0
+  country_list_pick: ^1.0.1
+  cupertino_icons: ^1.0.8
+  language_picker: ^0.4.0
+  google_sign_in: ^5.0.0
+  firebase_database: ^10.5.7
+  dropdown_search: ^5.0.6
+  firebase_messaging: ^14.6.2
+  cloud_functions: ^4.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1   # <- Moved here correctly!
+
+flutter_icons:    # <- Correctly placed outside dependencies
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Google_logo.png
+    - assets/chennai.jpeg
+    - assets/tanjore.jpg
+    - assets/kanchipuram.jpg
+    - assets/madurai.jpeg
+    - assets/rameshwaram.jpg
+    - assets/marinabeach.jpeg
+    - assets/kapaleeshwarar.jpg
+    - assets/birla planetarium.jpg
+    - assets/doll_making_center.jpg
+    - assets/rajarajacholaart gallery.jpg
+    - assets/thirumalainayakkarmahal.jpg
+    - assets/kudil.jpg
+    - assets/kanchi.jpg
+    - assets/perumal.jpg
+    - assets/memorial.jpg
+    - assets/meenashi_tem.jpg
+    - assets/dhanushkodi.jpg
+    - assets/kalam.jpg
+    - assets/Ramar padham.jpg
+    - assets/travel.jpeg
+    - assets/big_temple.jpg
+    - assets/app_logo.png  # <- Added here without touching your old images
